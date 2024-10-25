@@ -9,3 +9,4 @@ See the [Dash Documentation](https://dash.plotly.com/introduction) for more info
 ## Running the App
 
 Run `src/app.py` and navigate to http://127.0.0.1:8050/ in your browser.# GeneExpressionSearch
+# GeneExpressionSearch
