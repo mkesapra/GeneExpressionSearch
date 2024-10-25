@@ -1,5 +1,5 @@
 dash==2.15.0
 numpy==1.24.3
 pandas==2.0.3
-gunicorn
-dash-tools
+gunicorn==20.1.0
+dash-tools 
