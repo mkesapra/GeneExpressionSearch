@@ -1,12 +1,11 @@
-# Dash CSV Template: GeneExpressionSearch
+# GeneExpressionSearch
 
-Created on 2024-10-25 10:50:40.296296
-
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for gene expression search application.
-
-See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
+This application is designed for searching and visualizing gene expression data, developed using Python and the Plotly Dash framework.
 
 ## Running the App
 
-Run `src/app.py` and navigate to http://127.0.0.1:8050/ in your browser.# GeneExpressionSearch
+Ensure all libraries listed in requirements.txt are installed, and verify that the Python version matches the specification in runtime.txt.
 
+To start the application, navigate to the src directory and run the following command: python app.py
+
+Then open http://127.0.0.1:8050/ in your browser.
